@@ -13,5 +13,5 @@ APK tersedia di folder `apk/`.
 
 ## Akun Demo
 - Admin: `admin / password123`
-- Helpdesk: `budi / password123`
+- Helpdesk: `octavia / 12345678`
 - User: `siti / password123`
